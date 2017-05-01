@@ -58,6 +58,7 @@ var initialData = {
           "author": 2,
           // The contents of the comment.
           "contents": "hope everything is ok!",
+          "likeCounter": [1,3],
           // The date the comment was posted.
           // 01/24/16 22:00 EST
           "postDate": 1453690800000
@@ -65,6 +66,7 @@ var initialData = {
         {
           "author": 3,
           "contents": "sending hugs your way",
+          "likeCounter": [1],
           "postDate": 1453690800000
         }
       ]
